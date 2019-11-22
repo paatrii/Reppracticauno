@@ -1,5 +1,7 @@
 package programacionmodular;
 
+// CAMBIADO POR ADRIAN SUAZA
+
 import java.util.Scanner;
 
 public class Mcd {
