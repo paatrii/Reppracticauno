@@ -1,5 +1,7 @@
 /*este programa visualiza el máximo 
  * común divisor de 2 números
+ARCHIVO EDITADO POR PATRICIA PARA LA PRACTICA
+
  */
 package programacionmodular;
 
