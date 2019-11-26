@@ -1,6 +1,10 @@
 package programacionmodular;
 
+<<<<<<< HEAD
 // CAMBIADO POR ADRIAN SUAZA
+=======
+// CAMBIADO POR ADRIAN
+>>>>>>> adrian
 
 import java.util.Scanner;
 
