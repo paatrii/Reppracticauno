@@ -70,3 +70,39 @@
         - git push https://github.com/paatrii/Reppracticauno master
 ```
 
+
+
+**Adrian**
+> Me descargo los cambios de la rama master en el repositorio local
+```
+       - git pull https://github.com/paatrii/Reppracticauno/tree/master master
+       
+```
+> Cambio a la rama master 
+```
+
+        - git checkout master
+   
+```
+> Lo añadimos todos los archivos al repositorio
+```
+        - git add .
+
+```
+> Hacemos un commit 
+```
+        - git commit -m "Se hace merge a la rama adrian"
+
+```
+> Se hace un merrge para juntar los cambios
+```
+        - git merge adrian 
+
+```
+> Se hace un push para subir los cambios que hemos hecho
+```
+        - git push https://github.com/paatrii/Reppracticauno master
+
+```
+
+
