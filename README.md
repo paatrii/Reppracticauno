@@ -1,7 +1,6 @@
 **PATRICIA Y ADRIAN**
 **_Archivo Readme_**
-*
-*
+
 **Adrian**
 > Clono el repositorio de mi compañera en local: 
 ```
